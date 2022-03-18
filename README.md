@@ -1,1 +1,2 @@
 # goWeChat_Demo
+用go写一个即时通信的demo
